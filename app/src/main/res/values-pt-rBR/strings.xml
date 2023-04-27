@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login de App</string>
+    <string name="welcome_back">Bem-vindo de volta</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="create_account">Criar uma Conta</string>
+    <string name="name">Nome</string>
+    <string name="sing_up_with_google">Entre com o Google</string>
+    <string name="sing_up_with_facebook">Entre com o facebook</string>
+    <string name="are_you_new_user_register">Novo por aqui? Cadastre-se</string>
+    <string name="already_have_account_sing_in">Já tem conta? Entre</string>
+    <string name="welcome_back_to_your_app">Bem-vindo de volta ao aplicativo</string>
+    <string name="login">Login</string>
+    <string name="signup">Criar Conta</string>
+    <string name="all_on_one_you_need">tudo em um que você precisa</string>
+
+</resources>

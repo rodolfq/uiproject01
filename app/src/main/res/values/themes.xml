@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Uiproject01" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <item name="android:textColorPrimary">@color/purple</item>
+        <item name="colorPrimary">@color/purple</item>
+
+    </style>
+
+    <style name="Theme.Uiproject01" parent="Base.Theme.Uiproject01" />
+</resources>

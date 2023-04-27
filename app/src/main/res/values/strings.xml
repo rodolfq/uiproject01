@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login de App</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="sing_up_with_google">Sing up with Google</string>
+    <string name="sing_up_with_facebook">Sing up with facebook</string>
+    <string name="are_you_new_user_register">Are you new user? Register</string>
+    <string name="already_have_account_sing_in">Already have account? Sing in</string>
+    <string name="welcome_back_to_your_app">Welcome Back to Your App</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="all_on_one_you_need">all on-one you need</string>
+</resources>
